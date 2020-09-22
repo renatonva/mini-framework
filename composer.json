@@ -1,0 +1,15 @@
+{
+    "name": "renato/mini-framework",
+    "authors": [
+        {
+            "name": "Renato",
+            "email": "renatonva@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" :{
+            "app\\": "app/"
+        }
+    }
+}
